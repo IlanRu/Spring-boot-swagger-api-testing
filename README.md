@@ -21,3 +21,9 @@ H2 dm username and password are both given in the properties file.
 A docker image is available at: https://hub.docker.com/r/sabugoru/openlegacy-spring-test
 
 And finally some pretty pictures of the app in action:
+
+![alt text](images/cmd.jpg)
+
+![alt text](images/h2db.jpg)
+
+![alt text](images/swagger.jpg)
