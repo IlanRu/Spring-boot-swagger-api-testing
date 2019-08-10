@@ -1,6 +1,7 @@
 # Spring-boot-swagger-api-testing
 
 This is a spring-boot application with a REST controller that allows the user to perform some actions on data persisted on an h2 database using JPA.
+
 Available actions(and example commands):
 List of available items: curl -v localhost:8080/items
 Read item details (by item no): curl -v localhost:8080/items/1
